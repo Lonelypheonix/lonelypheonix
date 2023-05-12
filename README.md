@@ -11,7 +11,7 @@
 # Some Projects
 
 <a href="https://github.com/Lonelypheonix/To-Do-App">
-  <img src="https://github.com/Lonelypheonix/To-Do-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lonelypheonix&repo=To-Do-App&cache_seconds=86400&theme=gotham">
 </a>
 
 <a href="https://github.com/phoenix-monarch/AnimeeEZ">
