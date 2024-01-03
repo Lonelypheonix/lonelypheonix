@@ -27,8 +27,7 @@
 - 📫 How to reach me **pavankumarj.cygmail.com**
 
 - ⚡ Fun fact **I play games and listen to music very often.**
-<details>
-<summary>⠂𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙰𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 𝙸 𝙻𝚘𝚟𝚎⠐</summary>
+
 <h2 align="center"><b>⠂𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙰𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 𝙸 𝙻𝚘𝚟𝚎⠐
   <br>
   <br>
@@ -54,7 +53,7 @@
   <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </b></h2>
-</details>
+
 
 ## 🚀 Languages and Tools:
 
