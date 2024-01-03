@@ -3,7 +3,10 @@
 <h3 align="center">I'm a passionate Cyber Security Engineer from India.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
-
+<p align="center">
+    <b>ᴠɪsɪᴛᴏʀs</b><br>
+       <img align="middle" src="https://profile-counter.glitch.me/spryslade/count.svg" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devrahul-2508&label=Profile%20views&color=0e75b6&style=flat" alt="devrahul-2508" /> </p>
 
