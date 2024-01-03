@@ -1,6 +1,9 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pavan</h1>
-<h3 align="center">I'm a passionate Cyber Security Engineer from India.</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=F77247&width=420&lines=A+Passionate+Cyber+Security+engineer+From+India%E2%9C%8C%EF%B8%8F;Python%2C+AI%2C+Linux%E2%9D%A4%EF%B8%8F">
+</p> 
+<br>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
        <img align="middle" src="https://profile-counter.glitch.me/lonelypheonix/count.svg" />
