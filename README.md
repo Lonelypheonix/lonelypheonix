@@ -82,19 +82,17 @@
 <br/>
 <br/>
 
-<a href="https://github.com/lonelypheonix/github-readme-activity-graph"><img alt="Pavan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lonelypheonix&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/rahulr25
+<a href = "https://www.linkedin.com/in/pavankumarj
 "><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.rahulroy.rr2508@gmail.com
+<a href = "https://www.pavankumarj.cy@gmail.com
 "><img src="https://img.icons8.com/color/344/gmail-new.png" height=48px/></a>
-<a href = "https://www.facebook.com/rahul.br25
+<a href = "https://www.facebook.com/pavankumarj
 "><img src="https://img.icons8.com/fluency/344/facebook-new.png" height=48px/></a>
 </p>
 
