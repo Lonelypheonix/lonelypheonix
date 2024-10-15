@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](under construction)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://lonelypheonix.github.io/)**
 
 - 📫 How to reach me **pavankumarj.cygmail.com**
 
